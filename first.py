@@ -4,3 +4,4 @@ c = 3
 d = 4
 print(a + b + c)
 print('Hello, sakthi!,')
+print('How are you doing?')
